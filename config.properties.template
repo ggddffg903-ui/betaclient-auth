@@ -1,0 +1,3 @@
+# Beta Client auth config
+allowed_ids_url=https://ggddffg903-ui.github.io/betaclient-auth/allowed_ids.txt
+requests_webhook_url=
